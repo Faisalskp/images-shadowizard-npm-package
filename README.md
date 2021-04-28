@@ -4,14 +4,14 @@ Get perfect shadows every time for all images.
 
 # Installation 
 
-`npm i shadowImages --save`
+`npm i shadowizard_images --save`
 
 Then...
 
 ```
-import { shadowImages } from 'shadowImages';
+import { shadowizard_images } from 'shadowizard_images';
 
-shadowImages({
+shadowizard_images({
     shadow_type: 'low',
     padding: false
 });
@@ -20,7 +20,7 @@ shadowImages({
 
 ## Properties
 
-shadowImages supports two(2) properties, which are optional:
+shadowizard_images supports two(2) properties, which are optional:
 
 * *shadow_type* - _high | low_ (Defaults shadow_type property is low)
 * *padding* - _boolean_ (Default padding property is false)

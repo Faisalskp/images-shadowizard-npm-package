@@ -1,4 +1,4 @@
-function shadowImages(properties) {
+function shadowizard_images(properties) {
     var allImages = document.querySelectorAll('.shadowizard')
     if (properties.shadow_type === "high") {
         properties.shadow_type = '5px'
@@ -12,4 +12,4 @@ function shadowImages(properties) {
         }
     });
 }
-module.exports.shadowImages = shadowImages
+module.exports.shadowizard_images = shadowizard_images
