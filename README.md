@@ -22,5 +22,5 @@ shadowImages({
 
 shadowImages supports two(2) properties, which are optional:
 
-1)- shadow_type : "high" | "low" (Defaults shadow_type property is low)
-2)- padding  :  boolean (Default padding property is false)
+* *shadow_type* - _high | low_ (Defaults shadow_type property is low)
+* *padding* - _boolean_ (Default padding property is false)
