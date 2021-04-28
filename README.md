@@ -32,3 +32,5 @@ shadowizard_images supports two(2) properties, which are optional:
 <img src="assets/images/Before.PNG">
 
 * After
+
+<img src="assets/images/After.PNG">
