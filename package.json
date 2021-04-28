@@ -1,0 +1,27 @@
+{
+  "name": "shadowizard_images",
+  "version": "1.0.0",
+  "description": "Get perfect shadows every time for all images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faisalskp/images-shadowizard-npm-package.git"
+  },
+  "keywords": [
+    "shadows",
+    "shadowizard",
+    "boxShadow",
+    "box-shadow",
+    "div-shadows",
+    "image-shodow"
+  ],
+  "author": "faisal saleem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faisalskp/images-shadowizard-npm-package/issues"
+  },
+  "homepage": "https://github.com/Faisalskp/images-shadowizard-npm-package#readme"
+}

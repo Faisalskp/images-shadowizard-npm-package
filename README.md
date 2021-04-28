@@ -24,3 +24,11 @@ shadowizard_images supports two(2) properties, which are optional:
 
 * *shadow_type* - _high | low_ (Defaults shadow_type property is low)
 * *padding* - _boolean_ (Default padding property is false)
+
+## Images
+
+* Before
+
+<img src="assets/images/Before.PNG">
+
+* After
