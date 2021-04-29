@@ -18,6 +18,12 @@ shadowizard_images({
 
 ```
 
+## How to Use
+
+* *Step 1* : add images like, <img src="path">
+* *Step 2* : assign class to all images like, <img src="path" class="shadowizard">
+
+
 ## Properties
 
 shadowizard_images supports two(2) properties, which are optional:
