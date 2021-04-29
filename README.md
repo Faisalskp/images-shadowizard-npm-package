@@ -20,8 +20,8 @@ shadowizard_images({
 
 ## How to Use
 
-* *Step 1* : add images like, <imgTag with src="path">
-* *Step 2* : assign class to all images like, "<img src="path" class="shadowizard">"
+* *Step 1* : add images using HTML img tag
+* *Step 2* : assign shadowizard class to all images like, class="shadowizard"
 
 
 ## Properties
