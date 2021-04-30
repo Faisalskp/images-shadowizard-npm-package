@@ -31,6 +31,14 @@ shadowizard_images supports two(2) properties, which are optional:
 * *shadow_type* - _high | low_ (Defaults shadow_type property is low)
 * *padding* - _boolean_ (Default padding property is false)
 
+## Practice examples
+
+* *Step 1* : clone | download from  https://github.com/Faisalskp/images-shadowizard-npm-package
+* *Step 2* : cd example 
+* *Step 3* : npm install  
+* *Step 3* : parcel index.html  
+* *Step 4* : http://localhost:1234       
+
 ## Images
 
 * Before
